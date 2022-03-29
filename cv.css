@@ -1,0 +1,45 @@
+.page{
+    margin: auto;
+    font-family: 'source sans pro'Calibri,Tahoma,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.infophoto{
+    height: 200px;
+}
+
+.info{
+    float: left;
+}
+
+.photo{
+    float: right;
+    border-radius: 50%;
+}
+
+.section{
+    margin-bottom: 60px;
+    text-align: justify;
+}
+
+h2{
+    font-size: 28px;
+    color:#3d0632;
+    border-bottom: 3px solid #6f0e7c;
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.strong{
+    font-size: 30px;
+}
+body{
+    background-color: #8e829b;
+}
+img{
+    border-radius: 50%;
+}
